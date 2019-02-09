@@ -3,7 +3,7 @@
 
 
 ## Available Downloads
-[Numbers](SizeClassCheatSheet.numbers)
-[HTML](SizeClassCheatSheet.html)
-[PNG](SizeClassCheatSheet.png)
-[PDF](SizeClassCheatSheet.pdf)
+[Numbers](https://github.com/gumob/SizeClassCheatSheet/blob/master/SizeClassCheatSheet.numbers?raw=true)
+[HTML](https://github.com/gumob/SizeClassCheatSheet/blob/master/SizeClassCheatSheet.html?raw=true)
+[PNG](https://github.com/gumob/SizeClassCheatSheet/blob/master/SizeClassCheatSheet.png?raw=true)
+[PDF](https://github.com/gumob/SizeClassCheatSheet/blob/master/SizeClassCheatSheet.pdf?raw=true)
